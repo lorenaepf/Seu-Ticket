@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight"/>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desligar">Desligar</string>
+    <string name="ligar">Ligar</string>
+    <string name="mostrar">Mostrar</string>
+    <string-array name="Países">
+        <item>Brasil</item>
+        <item>Australia</item>
+        <item>China</item>
+    </string-array>
+    <string name="selecionar">Selecione um item</string>
+</resources>
